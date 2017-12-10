@@ -1,6 +1,6 @@
 body {
 	width: 100%;
-    background-color: #74777c;
+    background-color: #e2e892;
 	line-height: 1.4;
 	font-family: 'Roboto', sans-serif;
     font-size: 18px;
@@ -72,10 +72,10 @@ a:hover, a:focus, a:active{
     background: rgba(50,60,70, 0.9);
 }
 
-.bg-color{
-	background-color: RGBA(0, 0, 0, 0.67);
+ .bg-color{
+	background-color:#000000ab;
 	min-height: 650px;
-}
+} 
 .navbar-border{
 }
 .banner-text{
